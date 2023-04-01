@@ -1,2 +1,3 @@
 # Games-in-Python-
-project
+1) A-Tambolaa-Game
+2) Dice - Rolling
